@@ -27,8 +27,8 @@ This repo includes lecture notes from my Vibration of Complex Mechanical Systems
 - [Lecture 21](https://github.com/leahgaeta/Vibration-of-Complex-Mechanical-Systems/raw/main/Vibrations%20-%20Lecture%2021.pdf)
 
 **Finite Element Method:**
-- [Lecture 22]()
-- [Lecture 23]()
-- [Lecture 24]()
-- [Lecture 25]()
-- [Lecture 26]()
+- [Lecture 22](https://github.com/leahgaeta/Vibration-of-Complex-Mechanical-Systems/raw/main/Vibrations%20-%20Lecture%2022.pdf)
+- [Lecture 23](https://github.com/leahgaeta/Vibration-of-Complex-Mechanical-Systems/raw/main/Vibrations%20-%20Lecture%2023.pdf)
+- [Lecture 24](https://github.com/leahgaeta/Vibration-of-Complex-Mechanical-Systems/raw/main/Vibrations%20-%20Lecture%2024.pdf)
+- [Lecture 25](https://github.com/leahgaeta/Vibration-of-Complex-Mechanical-Systems/raw/main/Vibrations%20-%20Lecture%2025.pdf)
+- [Lecture 26](https://github.com/leahgaeta/Vibration-of-Complex-Mechanical-Systems/raw/main/Vibrations%20-%20Lecture%2026.pdf)
